@@ -1,0 +1,15 @@
+{
+  "name": "mock-jordan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start":"nodemon src/app/index.js"
+  },
+  "dependencies": {
+    "express": "4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.15"
+  }
+}
